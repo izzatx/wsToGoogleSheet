@@ -4,6 +4,14 @@ This Google Apps Script project automatically parses a text file (e.g., `wsDauh.
 
 ---
 
+## 📚 Documentation
+
+- [🔍 General Flow](./GeneralFlow.md) – Setup steps, folder/sheet ID, script settings
+- [📄 Extracted Data Details](./ExtractData.md) – Example of what data is being extracted (e.g., G1 ~ G31)
+- [📈 Output Format](./Output.md) – Final result format in Google Sheets
+
+---
+
 ## 🚀 Features
 
 - Extracts WhatsApp-style timestamps, custom IDs (e.g., `H01`, `F23`), and links from `.txt` files
